@@ -1,0 +1,7 @@
+[
+    { "batas_bawah": 5000000000, "tarif": 0.35 },
+    { "batas_bawah": 500000000, "tarif": 0.3 },
+    { "batas_bawah": 250000000, "tarif": 0.25 },
+    { "batas_bawah": 60000000, "tarif": 0.15 },
+    { "batas_bawah": 0, "tarif": 0.05 }
+]
